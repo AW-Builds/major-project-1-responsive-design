@@ -1,4 +1,4 @@
-# Interactive Responsive Portfolio Website (HTML, CSS, Bootstrap, Font Awesome, Google Fonts)
+# Interactive Responsive Portfolio Website (HTML, CSS, Bootstrap, Font Awesome & Google Fonts)
 
 ## Author: Ashley W 
 
