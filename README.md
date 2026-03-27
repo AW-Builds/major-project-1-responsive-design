@@ -1,4 +1,4 @@
-# Portfolio Website (HTML, CSS, Bootstrap, Font Awesome & Google Fonts)
+# Portfolio Website
 
 HTML, CSS, Bootstrap, Font Awesome & Google Fonts
 
